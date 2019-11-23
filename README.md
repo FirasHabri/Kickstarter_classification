@@ -1,10 +1,10 @@
 # Kickstarter_classification
 create a machine learning model to predict, if a kickstarter project is going to be successful or not based on chosen features.
 
-##Overview : 
+## Overview : 
 This notebook is to find out, if there are any features, which influence the Kickstarter project to succeed or fail. That is why we are going to focus only data which has state 'successful' or 'failed'.
 
-##Content:
+## Content:
  * Loading Modules
  * Loading the data set you can see it at "https://www.kaggle.com/kemical/kickstarter-projects"
  * Data exploration
